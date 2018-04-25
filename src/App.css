@@ -1,0 +1,19 @@
+div.row{
+  width: 100%;
+}
+
+div.row div{
+  width: 33%;
+  float: left;
+}
+
+table#dados{
+  width: 100%;
+  border: 1px solid #666;
+  margin-top: 25px;
+}
+
+table#dados tr{
+  
+}
+
